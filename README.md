@@ -1,2 +1,2 @@
 # DataScienceAssignment3
-Contains the code and a readme regarding web scraping a html table and storing the information in a pandas data frame.
+This code file contains the html writing used to create the table data. It uses the BeautifulSoup library to scrape the table and then pandas to create the DataFrame. The BeautifulSoup library reads and understands the html data by determining what information should be used as the headers, rows, and columns. Then, pandas is used to turn the raw information into a nice table containing all the data that had just been scraped. 
